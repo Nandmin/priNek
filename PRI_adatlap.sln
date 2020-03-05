@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005 Tools for Applications
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRI_adatlap", "PRI_adatlap.csproj", "{440B6DA8-24DC-4DAA-A515-D9E08F3BB3AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{440B6DA8-24DC-4DAA-A515-D9E08F3BB3AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{440B6DA8-24DC-4DAA-A515-D9E08F3BB3AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{440B6DA8-24DC-4DAA-A515-D9E08F3BB3AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{440B6DA8-24DC-4DAA-A515-D9E08F3BB3AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
